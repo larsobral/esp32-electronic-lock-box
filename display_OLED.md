@@ -10,3 +10,6 @@ GND → Terra
 VCC → Alimentação (3.3V ou 5V)
 SCL → Clock I2C
 SDA → Dados I2C
+![1000008935](https://github.com/user-attachments/assets/6cd8e777-e28d-4a1c-bb25-bd54d2e516af)
+
+![1000008937](https://github.com/user-attachments/assets/11324af5-f679-42d4-bb59-5a0c6a84f569)
